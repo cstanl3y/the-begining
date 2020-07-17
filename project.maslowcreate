@@ -1,0 +1,20 @@
+{
+    "atomType": "Molecule",
+    "name": "the begining",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 128205,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9847211611917496,
+            "y": 0.5,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1
+}
